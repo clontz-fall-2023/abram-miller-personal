@@ -7,14 +7,9 @@ I'll be putting all my classwork here.
 
 ### Here are some pictures of my cats!  
 This is Russell, aka Kitkit:  
-![Kitkit is sitting][cat1]  
-![He just does this][cat2]  
+<img src="https://cdn.discordapp.com/attachments/359774871988731904/1147253414137438240/IMG_3679.jpg" alt="Kitkit is sitting" width="200"/>  
+<img src="https://cdn.discordapp.com/attachments/359774871988731904/1147253412174504007/IMG_1383.jpg" alt="He just does this" width="200"/>
 
 And this is Yams:  
-![Yams wants to bite me][cat3]  
-![He's very cute when he's sleeping][cat4]  
-
-[cat1]: https://cdn.discordapp.com/attachments/359774871988731904/1147253414137438240/IMG_3679.jpg
-[cat2]: https://cdn.discordapp.com/attachments/359774871988731904/1147253412174504007/IMG_1383.jpg
-[cat3]: https://cdn.discordapp.com/attachments/359774871988731904/1147257020672659547/IMG_0833.jpg
-[cat4]: https://cdn.discordapp.com/attachments/359774871988731904/1147257021264040017/IMG_0341.jpg
+<img src="https://cdn.discordapp.com/attachments/359774871988731904/1147257020672659547/IMG_0833.jpg" alt="Yams wants to bite me" width="200"/>
+<img src="https://cdn.discordapp.com/attachments/359774871988731904/1147257021264040017/IMG_0341.jpg" alt="He's very cute when he's sleeping" width="300"/>
