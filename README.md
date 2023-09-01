@@ -7,7 +7,7 @@ I'll be putting all my classwork here.
 
 ### Here are some pictures of my cats!  
 This is Russell, aka Kitkit:  
-<img src="https://cdn.discordapp.com/attachments/359774871988731904/1147253414137438240/IMG_3679.jpg" alt="Kitkit is sitting" width="200"/>  
+<img src="https://cdn.discordapp.com/attachments/359774871988731904/1147253414137438240/IMG_3679.jpg" alt="Kitkit is sitting" width="200"/>
 <img src="https://cdn.discordapp.com/attachments/359774871988731904/1147253412174504007/IMG_1383.jpg" alt="He just does this" width="200"/>
 
 And this is Yams:  
